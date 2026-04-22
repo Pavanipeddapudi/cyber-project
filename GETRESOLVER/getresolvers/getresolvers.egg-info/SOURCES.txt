@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+getresolvers/__init__.py
+getresolvers/getresolvers.py
+getresolvers.egg-info/PKG-INFO
+getresolvers.egg-info/SOURCES.txt
+getresolvers.egg-info/dependency_links.txt
+getresolvers.egg-info/entry_points.txt
+getresolvers.egg-info/top_level.txt
